@@ -8,13 +8,18 @@ header {
 }
 
 nav ul {
+    background-color: white;
     list-style-type: none;
     display: flex;
     justify-content: center;
 }
 
 nav ul li {
-    margin: 1.25rem;
+    margin: 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
 }
 
 body {
