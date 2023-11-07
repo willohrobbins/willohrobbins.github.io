@@ -3,8 +3,18 @@
     src: url("/FONTS/quirky.ttf") format(OpenType);
 }
 
-h1 {
+#header {
     font-family: 'quirky', serif;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 1.25rem;
 }
 
 body {
