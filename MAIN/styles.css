@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "quirky";
+    src: url("/FONTS/quirky.ttf") format(OpenType);
+}
+
+h1 {
+    font-family: 'quirky', serif;
+}
+
 body {
     background-color: pink;
     text-align: center;
