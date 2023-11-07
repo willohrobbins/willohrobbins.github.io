@@ -3,7 +3,7 @@
     src: url("/FONTS/quirky.ttf") format(OpenType);
 }
 
-#header {
+header {
     font-family: 'quirky', serif;
 }
 
