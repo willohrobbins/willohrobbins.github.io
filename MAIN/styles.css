@@ -1,10 +1,11 @@
 @font-face {
     font-family: "quirky";
-    src: url("/FONTS/quirky.ttf") format(OpenType);
+    src: url("/FONTS/quirky.ttf") format(truetype);
 }
 
 header {
-    font-family: 'quirky', serif;
+    font-family: 'quirky', sans-serif;
+
 }
 
 nav ul {
