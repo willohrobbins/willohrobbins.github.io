@@ -1,9 +1,9 @@
 @font-face {
     font-family: "quirky";
-    src: url("/FONTS/quirky.ttf") format(truetype);
+    src: url("quirky.ttf") format('truetype');
 }
 
-header {
+#header {
     font-family: 'quirky', sans-serif;
 
 }
