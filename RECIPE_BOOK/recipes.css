@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "quirky";
+    src: url("/FONTS/quirky.ttf") format(OpenType);
+}
+
+header {
+    font-family: 'quirky', serif;
+}
+
+nav ul {
+    background-color: white;
+    list-style-type: none;
+    justify-content: left;
+}
+
+nav ul li {
+    margin: 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+body {
+    background-color: pink;
+    text-align: left;
+}
+
+span {
+    background-color: green;
+}
