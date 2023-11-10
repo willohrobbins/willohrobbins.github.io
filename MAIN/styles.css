@@ -26,7 +26,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #333; /* Match the text color */
+    color: #333; 
     padding: 0.5rem 1rem;
     display: block;
 }
@@ -44,7 +44,7 @@ body {
 }
 
 span {
-    background-color: #b5ead7; 
+    /*background-color: #b5ead7;*/ 
     padding: 1rem;
     display: inline-block;
     margin: 1rem;

@@ -1,17 +1,15 @@
 @font-face {
     font-family: "quirky";
-    src: url("/FONTS/quirky.ttf") format(OpenType);
+    src: url("quirky.ttf") format(OpenType);
 }
 
-header {
-    font-family: 'quirky', serif;
+#header {
+    font-family: 'quirky', sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
 }
 
 body {
-    background-color: pink;
+    background-color: #fde2e4;
     text-align: center;
-}
-
-span {
-    background-color: green;
 }
